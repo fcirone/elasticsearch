@@ -1,5 +1,5 @@
 {
-  "name": "elasticsearch",
+  "name": "elasticsearch-test",
   "version": "1.0.0",
   "description": "Send data to elasticsearch",
   "main": "index.js",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/fcirone/elasticsearch/issues"
   },
-  "homepage": "https://github.com/fcirone/elasticsearch#readme"
+  "homepage": "https://github.com/fcirone/elasticsearch#readme",
+  "dependencies": {
+    "config": "^1.24.0",
+    "elasticsearch": "^12.1.0",
+    "mongodb": "^2.2.11"
+  }
 }
