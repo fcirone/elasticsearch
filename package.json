@@ -1,0 +1,19 @@
+{
+  "name": "elasticsearch",
+  "version": "1.0.0",
+  "description": "Send data to elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fcirone/elasticsearch.git"
+  },
+  "author": "Fabio Cirone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fcirone/elasticsearch/issues"
+  },
+  "homepage": "https://github.com/fcirone/elasticsearch#readme"
+}
